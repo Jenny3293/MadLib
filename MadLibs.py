@@ -1,3 +1,4 @@
+#user enters words
 noun1 = input(“Enter a noun”)
 place = input(“Enter a place”)
 action =  input(“Enter an action”)
@@ -9,6 +10,7 @@ adjective2 = input(“Enter an adjective”)
 emotion = input(“Enter an emotion”)
 adjective3 = input("Enter an adjective")
 
+#entered words are put into  story
 print(“Once upon a time there lived a” + noun1)
 print(noun1 + “ needed to” + action “at” + place)
 print(noun1 + “started on” + pronoun “journey”)
