@@ -18,7 +18,7 @@ adjective2 = input('Enter an adjective: ')
 emotion = input('Enter an emotion: ')
 adjective3 = input("Enter an adjective: ")
 adjective4 = input("Enter an adjective: ")
-adjectice5 = input("Enter an adjective: ")
+adjective5 = input("Enter an adjective: ")
 adjective6 = input("Enter an adjective: ")
 
 #entered words are put into  story
@@ -46,10 +46,12 @@ print("they heard a noise and came to a stop, I wonder what it is said" + ' ' + 
 print("It was a ferocious" + ' ' + noun5)
 print("But of course" + ' ' + noun1 + ' ' + "asked if it wanter to come along to their journey")
 print("the" + ' ' + noun5 + ' ' + "agreed to come with")
-print("and so their journey to find a way out continued')
+print("and so their journey to find a way out continued")
 print("It was not til they reached a place of music")
 print("This land of mucic was peaceful and colorful")
 print("And at the end of the road, there was a little cottage")
 print("The cottage looked very familiar to" + ' ' + noun1)
 print("It was" + ' ' + noun1 + "'s" + place)      
 print("Final destination reached")
+
+print("The End")
